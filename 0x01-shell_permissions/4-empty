@@ -1,2 +1,2 @@
-#!/usr/bin/env bash
-touch hello
+#!/bin/bash
+<one simple command here>
