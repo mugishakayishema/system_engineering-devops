@@ -1,2 +1,3 @@
 #!/bin/bash
-for d in */; do chmod a+x "$d"; done
+for d in */; do chmod a+x "$d"
+done
