@@ -1,2 +1,2 @@
 #!/bin/bash
-<one simple command here>
+test -f filename
