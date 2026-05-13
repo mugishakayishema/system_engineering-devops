@@ -1,2 +1,2 @@
 #!/bin/bash
-test -f filename
+[ -f filename ]
